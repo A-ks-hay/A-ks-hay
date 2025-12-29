@@ -3,7 +3,7 @@
 </h1>
 
 <h2> 💫 About Me:</h2>
-<h3>🔭 I’m currently working on:</h3><br>• Python and SQL based projects<br>• Solving SQL problems daily on LeetCode<br>• UI/UX design projects and improving design skills<br><h3>🤝 I’m looking to collaborate on:</h3><br>• Python projects<br>• SQL and database projects<br>• UI/UX design projects<br><h3>🤔 I’m looking for help with:</h3><br>• Writing optimized SQL queries<br>• Advanced Python concepts and real-world use cases<br><<h3>🌱 I’m currently learning:</h3><br>• Python (from basics to advanced)<br>• SQL (querying, optimization, real projects)<br>• UI/UX (Figma, design thinking, user experience)<br><h3>💬 Ask me about:</h3><br>• Python<br>• SQL<br>• UI/UX Design<br><h3>⚡ Fun fact:</h3><br>I can spend hours fixing a bug — and still call it “fun” 😎
+<h3>🔭 I’m currently working on:</h3><br>• Python and SQL based projects<br>• Solving SQL problems daily on LeetCode<br>• UI/UX design projects and improving design skills<br><h3>🤝 I’m looking to collaborate on:</h3><br>• Python projects<br>• SQL and database projects<br>• UI/UX design projects<br><h3>🤔 I’m looking for help with:</h3><br>• Writing optimized SQL queries<br>• Advanced Python concepts and real-world use cases<br><h3>🌱 I’m currently learning:</h3><br>• Python (from basics to advanced)<br>• SQL (querying, optimization, real projects)<br>• UI/UX (Figma, design thinking, user experience)<br><h3>💬 Ask me about:</h3><br>• Python<br>• SQL<br>• UI/UX Design<br><h3>⚡ Fun fact:</h3><br>I can spend hours fixing a bug — and still call it “fun” 😎
 
 
 ## 🌐 Socials:
